@@ -73,10 +73,10 @@
 
         navigation {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans            &trans  &trans  &trans             &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &kp LG(LC(LEFT))  &trans  &trans  &kp LG(LC(RIGHT))  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans            &trans  &trans  &trans             &trans  &trans
-                        &trans  &trans  &trans    &trans            &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans             &trans            &trans  &trans  &trans             &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans             &kp LG(LC(LEFT))  &trans  &trans  &kp LG(LC(RIGHT))  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans             &trans            &trans  &trans  &trans             &trans  &trans
+                        &trans  &trans  &kp PRINTSCREEN    &trans            &trans  &trans
             >;
         };
 
