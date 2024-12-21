@@ -24,7 +24,7 @@
             compatible = "zmk,behavior-hold-tap";
             label = "CONNECTION";
             #binding-cells = <2>;
-            bindings = <&tog>, <&to>;
+            bindings = <&mo>, <&to>;
 
             flavor = "balanced";
             tapping-term-ms = <300>;
