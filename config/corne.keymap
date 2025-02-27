@@ -86,7 +86,7 @@
         symbols-fkeys {
             bindings = <
 &kp GRAVE  &kp EXCLAMATION  &kp AT_SIGN    &kp HASH      &kp DOLLAR  &kp PERCENT    &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &kp CARET        &kp AMPERSAND  &kp ASTERISK  &trans      &trans         &trans  &trans  &trans  &trans  &trans  &trans
+&trans     &kp CARET        &kp AMPERSAND  &kp ASTERISK  &kp TILDE   &trans         &trans  &trans  &trans  &trans  &trans  &trans
 &trans     &trans           &trans         &trans        &trans      &trans         &trans  &trans  &trans  &trans  &trans  &trans
                                            &trans        &trans      &trans         &trans  &trans  &trans
             >;
