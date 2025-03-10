@@ -94,10 +94,10 @@
 
         navigation {
             bindings = <
-&trans          &trans  &kp LG(N7)        &kp LG(N8)        &kp LG(N9)        &kp LG(PAGE_UP)      &trans         &trans      &trans       &trans          &trans  &trans
-&trans          &trans  &kp LG(NUMBER_4)  &kp LG(N5)        &kp LG(NUMBER_6)  &kp LG(PAGE_DOWN)    &kp LG(COMMA)  &kp LG(J)   &kp LG(K)    &kp LG(PERIOD)  &trans  &trans
-&kp LEFT_SHIFT  &trans  &kp LG(NUMBER_1)  &kp LG(NUMBER_2)  &kp LG(NUMBER_3)  &kp LG(B)            &trans         &trans      &trans       &trans          &trans  &trans
-                                          &trans            &trans            &kp PRINTSCREEN      &trans         &sys_reset  &bootloader
+&trans          &trans  &kp LG(N7)        &kp LG(N8)        &kp LG(N9)        &kp LG(PAGE_UP)      &trans         &trans                     &trans                &trans                         &trans                        &trans
+&trans          &trans  &kp LG(NUMBER_4)  &kp LG(N5)        &kp LG(NUMBER_6)  &kp LG(PAGE_DOWN)    &kp LG(COMMA)  &homerow LEFT_SHIFT LG(J)  &homerow LCTRL LG(K)  &homerow2 LEFT_ALT LG(PERIOD)  &homerow2 LEFT_GUI SEMICOLON  &trans
+&kp LEFT_SHIFT  &trans  &kp LG(NUMBER_1)  &kp LG(NUMBER_2)  &kp LG(NUMBER_3)  &kp LG(B)            &trans         &trans                     &trans                &trans                         &trans                        &trans
+                                          &trans            &trans            &kp PRINTSCREEN      &trans         &sys_reset                 &bootloader
             >;
         };
 
